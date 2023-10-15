@@ -1,0 +1,21 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.selected {
+  background-color: blue;
+}
+
+div#app {
+  display: flex;
+  gap: 1rem;
+}
+
+button {
+  border: 0;
+  background: blueviolet;
+  color: wheat;
+  padding-inline: 1rem;
+  padding-block: 0.25rem;
+}
